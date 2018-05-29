@@ -1,5 +1,5 @@
 # opis
-# Wyswietlenie napisy "Hello world!" na czacie
+# Wyswietlenie napisu "Hello world!" na czacie
 
 
 from mine import *
