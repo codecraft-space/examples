@@ -2,7 +2,7 @@
 # Zbuduj wieze skladajaca sie z 5 blokow, w ktorej 1 blok znajduje sie punkcie [0,0,0] 
 # Z materialu TNT (dynamit) i wysadz wszystko w powietrze (pochodnia redstone)
 
-from mine import *
+from mine import Minecraft, block
 
 mc = Minecraft()
 

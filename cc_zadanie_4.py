@@ -1,7 +1,6 @@
 # opis
 # Zmieniajac 3 paramter polecenia 'setBlock', zbuduj szklane schody (GLASS) schody startujac z pozycji 0 0 0. 
-
-from mine import *
+from mine import Minecraft, block
 
 mc = Minecraft()
 

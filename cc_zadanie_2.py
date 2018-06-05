@@ -7,8 +7,7 @@
 # 4) 0, 10, 10 z materialem block.GOLD_BLOCK
 # 5) W dowolnym miejscu, z dowolnym materialem. Znajdz i zaprezentuj
 
-
-from mine import *
+from mine import Minecraft, block
 
 mc = Minecraft()
 
