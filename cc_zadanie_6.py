@@ -3,7 +3,7 @@
 # Startujac z pozycji 0 0 0. 
 # Wieza powinna miec wysokosc 500 elementow
 
-from mine import *
+from mine import Minecraft, block
 
 mc = Minecraft()
 
