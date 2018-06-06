@@ -20,7 +20,7 @@
 
 
 # Przydatne komendy
- * wyczyść plansze `/py cc_clean.py`
+ * wyczyść planszę: `/py cc_clean.py`
  * ustaw dzień: `/time set day`
  * ustaw ładną pogodę: `/weather clear` 
  * wyświetl informacje o położeniu: `F3`
