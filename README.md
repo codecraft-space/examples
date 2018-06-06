@@ -1,7 +1,6 @@
 
-# Repozytorium z zadaniami.
 
-## Zadania
+# Zadania
 1. [Wiadomość na czata](zadania/cc_zadanie_1.py)
 1. [Pierwsze obiekty](zadania/cc_zadanie_2.py)
 1. [Wieża](zadania/cc_zadanie_3.py)
@@ -20,21 +19,21 @@
 1. [Wybuchowe pola za pomocą pętli i funkcji](zadania/cc_zadanie_10.py)
 
 
-## Przydatne komendy
+# Przydatne komendy
  * wyczyść plansze `/py cc_clean.py`
  * ustaw dzień: `/time set day`
  * ustaw ładną pogodę: `/weather clear` 
  * wyświetl informacje o położeniu: `F3`
 
 
-## Porady
+# Porady
 
-### Komputer muli po włączeniu gry
+## Komputer muli po włączeniu gry
 Wejdź w `Opcje -> Ustawienia graficzne -> Maksymalne FPS` i ustaw wartość 40.
 
 
 
-## TODO
+# TODO
 1) sciezka pythonowa dla odpalenia.
 2) dodac przyklad z sciana
 3) poprawic opisy 
