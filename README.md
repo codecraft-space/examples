@@ -23,7 +23,7 @@
  * wyczyść planszę: `/py cc_clean.py`
  * ustaw dzień: `/time set day`
  * ustaw ładną pogodę: `/weather clear` 
- * wyświetl informacje o położeniu: `F3`
+ * wyświetl informacje o położeniu i wydaności: `F3`
 
 
 # Porady
