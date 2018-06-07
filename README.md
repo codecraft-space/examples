@@ -42,12 +42,12 @@ Wejdź w `Opcje -> Ustawienia graficzne -> Maksymalne FPS` i ustaw wartość 40.
 
 
 # TODO
-1) sciezka pythonowa dla odpalenia.
-2) dodac przyklad z sciana
-3) poprawic opisy 
-4) Czy da sie ustawic pogode i dziena na stale
-5) Zagdaki na koniec
+- [ ] sciezka pythonowa dla odpalenia.
+- [ ] dodac przyklad z sciana
+- [ ] poprawic opisy 
+- [ ] Czy da sie ustawic pogode i dziena na stale
+- [ ] Zagdaki na koniec
  - domek z dachem
  - wyjscie z szescianu 
  - przejscie przez lawe
-6) Tytuly do zadan plus nazwy plików 
+- [ ] Tytuly do zadan plus nazwy plików 
