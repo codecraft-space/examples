@@ -1,5 +1,13 @@
 
 
+* [Zadania](#zadania)
+* [Przydatne komendy](#przydatne-komendy)
+* [Porady](#porady)
+	* [Komputer muli po włączeniu gry](#komputer-muli-po-włączeniu-gry)
+* [TODO](#todo)
+
+
+
 # Zadania
 1. [Wiadomość na czata](zadania/cc_zadanie_1.py)
 1. [Pierwsze obiekty](zadania/cc_zadanie_2.py)
