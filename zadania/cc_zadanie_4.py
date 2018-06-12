@@ -7,10 +7,10 @@
 
 from mine import Minecraft, block
 
-mc = Minecraft()
+minecraft = Minecraft()
 
 for i in range(20):
     if i == 5:
-        mc.setBlock(0, i, 0, block.BRICK_BLOCK)
+        minecraft.setBlock(0, i, 0, block.BRICK_BLOCK)
     else:
-        mc.setBlock(0, i, 0, block.TNT)
+        minecraft.setBlock(0, i, 0, block.TNT)

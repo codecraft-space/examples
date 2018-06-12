@@ -5,7 +5,7 @@
 
 from mine import Minecraft, block
 
-mc = Minecraft()
+minecraft = Minecraft()
 
 for i in range(100):
-    mc.setBlock(i, i, 0, block.BRICK_BLOCK)
+    minecraft.setBlock(i, i, 0, block.BRICK_BLOCK)

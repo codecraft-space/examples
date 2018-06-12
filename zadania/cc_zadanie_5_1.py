@@ -1,13 +1,13 @@
 # opis (funkcje)
 from mine import Minecraft, block
 
-mc = Minecraft()
+minecraft = Minecraft()
 
 
 def klocek_nad_ziema(wyskosc):
-    mc.setBlock(0, wyskosc, 0, block.BRICK_BLOCK)
-    mc.setBlock(0, wyskosc + 1, 0, block.BRICK_BLOCK)
-    mc.setBlock(0, wyskosc + 2, 0, block.BRICK_BLOCK)
+    minecraft.setBlock(0, wyskosc, 0, block.BRICK_BLOCK)
+    minecraft.setBlock(0, wyskosc + 1, 0, block.BRICK_BLOCK)
+    minecraft.setBlock(0, wyskosc + 2, 0, block.BRICK_BLOCK)
 
 
 klocek_nad_ziema(5)

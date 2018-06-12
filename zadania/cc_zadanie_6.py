@@ -1,14 +1,14 @@
 # opis (funkcje + petle)
 from mine import Minecraft, block
 
-mc = Minecraft()
+minecraft = Minecraft()
 
 
 def kupa_z_dynamitem(start):
-    mc.setBlock(start, 0, 0, block.TNT)
-    mc.setBlock(start + 1, 0, 0, block.TNT)
-    mc.setBlock(start + 2, 0, 0, block.TNT)
-    mc.setBlock(start + 3, 0, 0, block.REDSTONE_TORCH_ACTIVE)
+    minecraft.setBlock(start, 0, 0, block.TNT)
+    minecraft.setBlock(start + 1, 0, 0, block.TNT)
+    minecraft.setBlock(start + 2, 0, 0, block.TNT)
+    minecraft.setBlock(start + 3, 0, 0, block.REDSTONE_TORCH_ACTIVE)
 
 
 for i in range(100):

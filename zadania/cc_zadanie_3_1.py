@@ -6,8 +6,8 @@
 
 from mine import Minecraft, block
 
-mc = Minecraft()
+minecraft = Minecraft()
 
 
 for wysokosc in range(100):
-    mc.setBlock(0, wysokosc, 0, block.RED_SAND)
+    minecraft.setBlock(0, wysokosc, 0, block.RED_SAND)

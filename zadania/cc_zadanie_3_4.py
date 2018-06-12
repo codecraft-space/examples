@@ -6,9 +6,9 @@
 
 from mine import Minecraft, block
 
-mc = Minecraft()
+minecraft = Minecraft()
 
 
 for wysokosc in range(100):
     for szerokosc in range(100):
-        mc.setBlock(szerokosc, wysokosc, 0, block.RED_SAND)
+        minecraft.setBlock(szerokosc, wysokosc, 0, block.RED_SAND)
