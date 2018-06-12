@@ -1,11 +1,9 @@
 # opis
-# Zmieniajac 3 paramter polecenia 'setBlock', zbuduj szklane schody (GLASS) schody startujac z pozycji 0 0 0. 
+# Na czacie Minecraft wyswietl liczby od 0 do 5. Sprawdz zadanie pierwsze aby zobaczyc jak wypisywac na czacie.
 from mine import Minecraft, block
 
 mc = Minecraft()
 
-mc.setBlock(0, 0, 0, block.GLASS)
-mc.setBlock(0, 1, 1, block.GLASS)
-mc.setBlock(0, 2, 2, block.GLASS)
-mc.setBlock(0, 3, 3, block.GLASS)
-mc.setBlock(0, 4, 4, block.GLASS)
+
+for numer in range(5):
+    mc.postToChat(str(numer))
