@@ -1,13 +1,34 @@
-# opis
-# Zmieniajac 2 (wysokosc) parametr polecenia 'setBlock', zbuduj ceglane schody (BRICK_BLOCK)
-# 1 ) Startujac z pozycji 0 0 0.
-# 2 ) Dodaj na osi X kolejny blok aby wypelnic schody. 
-# Schody powinny miec wysokosc 100 elementow
-
+# opis (funkcje + petle)
 from mine import Minecraft, block
 
 mc = Minecraft()
 
+
+def kupa_z_dynamitem(start):
+    mc.setBlock(start, 0, 0, block.TNT)
+    mc.setBlock(start + 1, 0, 0, block.TNT)
+    mc.setBlock(start + 2, 0, 0, block.TNT)
+    mc.setBlock(start + 3, 0, 0, block.REDSTONE_TORCH_ACTIVE)
+
+
 for i in range(100):
-    mc.setBlock(i, i, 0, block.BRICK_BLOCK)
-    mc.setBlock(i + 1, i, 0, block.BRICK_BLOCK)
+    if i == 0:
+        kupa_z_dynamitem(i)
+    elif i == 10:
+        kupa_z_dynamitem(i)
+    elif i == 20:
+        kupa_z_dynamitem(i)
+    elif i == 30:
+        kupa_z_dynamitem(i)
+    elif i == 40:
+        kupa_z_dynamitem(i)
+    elif i == 50:
+        kupa_z_dynamitem(i)
+    elif i == 60:
+        kupa_z_dynamitem(i)
+    elif i == 70:
+        kupa_z_dynamitem(i)
+    elif i == 80:
+        kupa_z_dynamitem(i)
+    elif i == 90:
+        kupa_z_dynamitem(i)

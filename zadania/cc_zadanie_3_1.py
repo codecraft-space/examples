@@ -1,6 +1,7 @@
-# opis
-# Zmieniajac 2 (wysokosc) parametr polecenia 'setBlock', zbuduj piaskowa wieze (RED_SAND)
-# Startujac z pozycji 0 0 0. 
+# petle (loops)
+# Zmieniajac 2 (wysokosc) parametr polecenia 'setBlock',
+# zbuduj piaskowa wieze (RED_SAND)
+# Startujac z pozycji 0 0 0.
 # Wieza powinna miec wysokosc 100 elementow
 
 from mine import Minecraft, block
