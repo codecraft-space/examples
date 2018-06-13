@@ -40,7 +40,9 @@
 Wejdź w `Opcje -> Ustawienia graficzne -> Maksymalne FPS` i ustaw wartość 40.
 
 
+
 # TODO
+- [ ] zobaczyć czy mozna uzyć Javy z Minecrafta.
 - [ ] sciezka pythonowa dla odpalenia.
 - [ ] poprawic opisy
 - [ ] Czy da sie ustawic pogode i dziena na stale
@@ -49,3 +51,4 @@ Wejdź w `Opcje -> Ustawienia graficzne -> Maksymalne FPS` i ustaw wartość 40.
  - wyjscie z szescianu
  - przejscie przez lawe
 - [ ] Tytuly do zadan plus nazwy plików
+- [ ] Zadania z konkatenacja stringów
