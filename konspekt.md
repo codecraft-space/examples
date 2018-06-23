@@ -15,20 +15,17 @@
 - zbudowanie małej wieży
 - zbudowanie prostych schodów
 
-# zadanie 3 (pętla)
+# zadanie 3 (pętla i pętla w pętli)
 - tworzymy plik `cc_zadanie_3.py`
 - wprowadznie pętli `for i in range(5):` (znowu nawiązanie do przepisu - "zamieszaj 10 razy" zamiast pisania tego 10 razy)
 - zbudowanie wysokiej wieży
 - zbudowanie długich schodów
 - zbudowanie grubych schodów - wprowadzenie drugiej komendy w pętli
-
-# zadanie 4 (pętla w pętli)
-- tworzymy plik `cc_zadanie_4.py`
 - zbudowanie ściany - wprowadzenie pętli w pętli - zmienne `i` i `j`
 - różne warości parametrów `range` niski mur, szeroka wieża itp. kombinacje
 
-# zadanie 5 (if else)
-- tworzymy plik `cc_zadanie_5.py`
+# zadanie 4 (if else)
+- tworzymy plik `cc_zadanie_4.py`
 - wprowadzenie instrukcji `if i == 5: else:`
 - zbudowanie wieży w której jeden klocek jest inny
 - zbudowanie ściany z dwóch materiałów
@@ -36,8 +33,8 @@
 - zbudowanie schodów z różnych klocków
 - zbudowanie ściany z różnych materiałów, w pionie i w poziomie
 
-# zadanie 6 (funkcje)
-- tworzymy plik `cc_zadanie_6.py`
+# zadanie 5 (funkcje)
+- tworzymy plik `cc_zadanie_5.py`
 - wprowadzenie tworzenia funkcji
 - funkcja która tworzy trzy bloki koło siebie
 
