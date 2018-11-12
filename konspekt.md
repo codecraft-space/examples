@@ -10,6 +10,7 @@
 
 # zadanie 2 (setBlock)
 - tworzymy plik `cc_zadanie_2.py`
+- wyjaśnienie `minecraft.player.getPos()`
 - wprowadzenie komendy `minecraft.setBlock(x, y, z, block.NAZWA_BLOKU)`
 - ustawianie pojedynczych bloków
 - zbudowanie małej wieży
