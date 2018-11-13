@@ -37,9 +37,9 @@
 # Porady
 
 ## Komputer muli po włączeniu gry
-Wejdź w `Opcje -> Ustawienia graficzne -> Maksymalne FPS` i ustaw wartość 40.
-Wejdź w `Opcje -> Ustawienia graficzne -> Jakość grafiki` i ustaw wartość `Jakość grafiki: Szybka`.
-Wejdź w `Opcje -> Pole widzenia` i ustaw wartość 40.
+* Wejdź w `Opcje -> Ustawienia graficzne -> Maksymalne FPS` i ustaw wartość 40.
+* Wejdź w `Opcje -> Ustawienia graficzne -> Jakość grafiki` i ustaw wartość `Jakość grafiki: Szybka`.
+* Wejdź w `Opcje -> Pole widzenia` i ustaw wartość 40.
 
 
 # TODO
