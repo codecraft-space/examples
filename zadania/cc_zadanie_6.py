@@ -3,12 +3,15 @@ from mine import Minecraft, block
 
 minecraft = Minecraft()
 
+x = minecraft.player.getPos().x
+y = minecraft.player.getPos().y
+z = minecraft.player.getPos().z
 
 def kupa_z_dynamitem(start):
-    minecraft.setBlock(start, 0, 0, block.TNT)
-    minecraft.setBlock(start + 1, 0, 0, block.TNT)
-    minecraft.setBlock(start + 2, 0, 0, block.TNT)
-    minecraft.setBlock(start + 3, 0, 0, block.REDSTONE_TORCH_ACTIVE)
+    minecraft.setBlock(x + start, y, z, block.TNT)
+    minecraft.setBlock(x + start + 1, y, z, block.TNT)
+    minecraft.setBlock(x + start + 2, y, z, block.TNT)
+    minecraft.setBlock(x + start + 3, y, z, block.REDSTONE_TORCH_ACTIVE)
 
 
 for i in range(100):

@@ -10,6 +10,7 @@
 
 # zadanie 2 (setBlock)
 - tworzymy plik `cc_zadanie_2.py`
+- wyjaśnienie `minecraft.player.getPos()`
 - wprowadzenie komendy `minecraft.setBlock(x, y, z, block.NAZWA_BLOKU)`
 - ustawianie pojedynczych bloków
 - zbudowanie małej wieży
@@ -21,7 +22,6 @@
 - zbudowanie wysokiej wieży
 - zbudowanie długich schodów
 - zbudowanie grubych schodów - wprowadzenie drugiej komendy w pętli
-- zbudowanie ściany - wprowadzenie pętli w pętli - zmienne `i` i `j`
 - różne warości parametrów `range` niski mur, szeroka wieża itp. kombinacje
 
 # zadanie 4 (if else)
@@ -37,6 +37,8 @@
 - tworzymy plik `cc_zadanie_5.py`
 - wprowadzenie tworzenia funkcji
 - funkcja która tworzy trzy bloki koło siebie
+- zbudowanie ściany - funkcja, która buduje słup, oraz druga funkcja, która w pętli buduje ścianę ze słupów
+
 
 # zadanie - "wodospad"
 - zbudowanie kostki z wodą i wodospadem

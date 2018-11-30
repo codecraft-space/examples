@@ -24,6 +24,7 @@
 1. Funkcje
     1. [Pierwsza funkcja](zadania/cc_zadanie_5.py)
     1. [Fajniejsza funkcja](zadania/cc_zadanie_5_1.py)
+    1. [Funkcje do budowy ścian i słupów](zadania/cc_zadanie_5_2.py)
 1. [Wybuchowe pola za pomocą pętli i funkcji](zadania/cc_zadanie_6.py)
 
 
