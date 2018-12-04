@@ -30,6 +30,7 @@
 # Przydatne komendy
  * wyczyść planszę: `/py cc_clean.py`
  * ustaw dzień: `/time set day`
+ * zatrzymaj cykl dzień-noc: `/gamerule doDaylightCycle false`
  * ustaw ładną pogodę: `/weather clear` 
  * wyświetl informacje o położeniu i wydaności: `F3`
 
@@ -45,7 +46,7 @@ Wejdź w `Opcje -> Ustawienia graficzne -> Maksymalne FPS` i ustaw wartość 40.
 - [ ] sciezka pythonowa dla odpalenia.
 - [ ] dodac przyklad z sciana
 - [ ] poprawic opisy 
-- [ ] Czy da sie ustawic pogode i dziena na stale
+- [ ] Czy da sie ustawic pogode na stale
 - [ ] Zagdaki na koniec
  - domek z dachem
  - wyjscie z szescianu 
