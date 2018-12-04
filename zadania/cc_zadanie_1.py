@@ -1,8 +1,7 @@
-# opis
 # Wyswietlenie napisu "Hello world!" na czacie
-
+# polecenie "postToChat"
 from mine import Minecraft
 
-mc = Minecraft()
+minecraft = Minecraft()
 
-mc.postToChat("Hello world!")
+minecraft.postToChat("Hello world!")

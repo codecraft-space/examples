@@ -1,13 +1,9 @@
-# opis
-# Zbuduj wieze skladajaca sie z 5 blokow, w ktorej 1 blok znajduje sie punkcie [0,0,0] 
-# Z materialu TNT (dynamit) i wysadz wszystko w powietrze (pochodnia redstone)
+# petle (loops)
+# Na czacie Minecraft wyswietl liczby od 0 do 5. Sprawdz zadanie pierwsze aby zobaczyc jak wypisywac na czacie.
 
-from mine import Minecraft, block
+from mine import Minecraft
 
-mc = Minecraft()
+minecraft = Minecraft()
 
-mc.setBlock(0, 0, 0, block.TNT)
-mc.setBlock(0, 1, 0, block.TNT)
-mc.setBlock(0, 2, 0, block.TNT)
-mc.setBlock(0, 3, 0, block.TNT)
-mc.setBlock(0, 4, 0, block.TNT)
+for numer in range(5):
+    minecraft.postToChat(str(numer))

@@ -5,13 +5,18 @@
 # 1) miec wysokosc 20 elementow
 # 2) co 5 blok powinnien byc dynamietem (TNT)
 
+# * Trudne!
+
 from mine import Minecraft, block
 
-mc = Minecraft()
+minecraft = Minecraft()
 
 for i in range(20):
     if i == 5:
-        mc.setBlock(0, i, 0, block.BRICK_BLOCK)
+        minecraft.setBlock(0, i, 0, block.TNT)
+    elif i == 10:
+        minecraft.setBlock(0, i, 0, block.TNT)
+    elif i == 15:
+        minecraft.setBlock(0, i, 0, block.TNT)
     else:
-        mc.setBlock(0, i, 0, block.TNT)
-
+        minecraft.setBlock(0, i, 0, block.BRICK_BLOCK)
