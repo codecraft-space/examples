@@ -31,7 +31,7 @@
  * wyczyść planszę: `/py cc_clean.py`
  * ustaw dzień: `/time set day`
  * zatrzymaj cykl dzień-noc: `/gamerule doDaylightCycle false`
- * ustaw ładną pogodę: `/weather clear` 
+ * ustaw ładną pogodę na X sekund: `/weather clear 10000` 
  * wyświetl informacje o położeniu i wydaności: `F3`
 
 
@@ -46,7 +46,6 @@ Wejdź w `Opcje -> Ustawienia graficzne -> Maksymalne FPS` i ustaw wartość 40.
 - [ ] zobaczyć czy mozna uzyć Javy z Minecrafta.
 - [ ] sciezka pythonowa dla odpalenia.
 - [ ] poprawic opisy 
-- [ ] Czy da sie ustawic pogode na stale
 - [ ] Zagdaki na koniec
  - domek z dachem
  - wyjscie z szescianu
