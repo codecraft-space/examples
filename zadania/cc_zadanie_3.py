@@ -6,4 +6,4 @@ from mine import Minecraft
 minecraft = Minecraft()
 
 for numer in range(5):
-    minecraft.postToChat(str(numer))
+    minecraft.postToChat(numer)
