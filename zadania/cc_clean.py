@@ -4,5 +4,6 @@ from mine import Minecraft, block
 
 mc = Minecraft()
 
-mc.setBlocks(-50, 0, -50, 50, 50, 50, block.AIR)
-mc.setBlocks(-50, -5, -50, 50, -1, 50, block.GRASS)
+a = 50
+mc.setBlocks(-a, 0, -a, a, a, a, block.AIR)
+mc.setBlocks(-a, -5, -a, a, -1, a, block.GRASS)
