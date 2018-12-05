@@ -3,9 +3,12 @@ from mine import Minecraft, block
 
 minecraft = Minecraft()
 
+x = minecraft.player.getPos().x
+y = minecraft.player.getPos().y
+z = minecraft.player.getPos().z
 
 def klocek_nad_ziema(wyskosc):
-    minecraft.setBlock(0, wyskosc, 0, block.BRICK_BLOCK)
+    minecraft.setBlock(x, y + wyskosc, z, block.BRICK_BLOCK)
 
 
 klocek_nad_ziema(5)
