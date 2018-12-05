@@ -41,6 +41,10 @@
 ## Komputer muli po włączeniu gry
 Wejdź w `Opcje -> Ustawienia graficzne -> Maksymalne FPS` i ustaw wartość 40.
 
+## Czemu współrzędne z F3 są inne niż te, których używamy w Minecraft.setBlock()
+Pod F3 wyświtlają się bezwzględne współrzędne względem środka świata Minecraft, natomiast gdy powjawiamy sie w grze (respawn) lub tworzymy obiekty za pomocą Minecraft.setBlock() jako punkt odniesienia używany jest [World Span](https://minecraft.gamepedia.com/Spawn#Player_spawning). Punkt *World Span* można przenieść za pomocą `/setworldspawn <x> <y> <z>`
+
+
 
 
 # TODO
