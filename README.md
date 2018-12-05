@@ -31,8 +31,9 @@
  * wyczyść planszę: `/py cc_clean.py`
  * ustaw dzień: `/time set day`
  * zatrzymaj cykl dzień-noc: `/gamerule doDaylightCycle false`
- * ustaw ładną pogodę na X sekund: `/weather clear 10000` 
- * wyświetl informacje o położeniu i wydaności: `F3`
+ * ustaw ładną pogodę na X sekund: `/weather clear 10000`
+ * ustaw punkt respawnu uzywając bezwzględnych współrzędnych Minecrafta `/setworldspawn <x> <y> <z>` (punkt respawnu jest traktowany jako początek układu współrzędnych dla metody Minecraft.setBlock() i w okolicy tego punku pojawia sie odrodzona postać)
+ * wyświetl informacje o położeniu i wydaności: `F3` (Uwaga: wyświetla bezwzględne współrzędne, które są inne niż punkt respawn)
 
 
 # Porady
